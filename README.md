@@ -5,3 +5,4 @@ Demo Video Link:
 https://drive.google.com/file/d/1qWSWhYb7kJ4BkVT85Gu4R-bprfQi7FMa/view?usp=sharing
 
 Devpost Submission Link:
+https://devpost.com/software/trak-covid-19-o2tg5c
