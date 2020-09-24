@@ -1,4 +1,4 @@
-# TRAK-COVID-19
+# TRAK COVID-19
 ## Keeping Communities INFORMED and SAFE
 
 TRAK COVID-19 ensures users have up-to-date information regarding the pandemic, including but not limited to nearby testing sites and crucial worldwide news.
